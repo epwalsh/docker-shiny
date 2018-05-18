@@ -1,22 +1,24 @@
 # docker-shiny
 
-A Shiny server deployed through Docker with username/password login.
+A simple R Shiny server deployed through Docker with username + password authentication
+:closed_lock_with_key:
+:raised_hands: :raised_hands: :clap: :clap: :clap: :clap:
 
 ## Requirements
 
-Docker and Git.
+:whale: Docker and Git.
 
 ## Quick start
 
 **1. Pull or build the docker image.**
 
-You can pull and run the image directly with
+You can pull and run the image directly:
 
 ```
 docker pull epwalsh/shiny-server
 ```
 
-Or build from scratch:
+Or build from scratch: :muscle:
 
 ```
 git clone https://github.com/epwalsh/docker-shiny.git && cd docker-shiny
