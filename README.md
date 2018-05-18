@@ -31,6 +31,14 @@ docker build -t epwalsh/shiny-server .
 docker run --rm --env-file=access.txt -p 80:80 epwalsh/shiny-server
 ```
 
+> NOTE: If you pulled the image directly and didn't clone the repository,
+you'll need to create the `access.txt` file which just has two lines:
+
+```
+HT_USER=shiny
+HT_PSWD=password
+```
+
 **3. Test it out!**
 
 Open your web browser and go to local host. You should see 
