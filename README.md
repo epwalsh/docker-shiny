@@ -6,7 +6,7 @@ A simple R Shiny server deployed through Docker with username + password authent
 
 ## Requirements
 
-:whale: Docker and Git.
+:whale: Docker and Git :octocat:
 
 ## Quick start
 
