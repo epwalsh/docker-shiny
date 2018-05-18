@@ -4,7 +4,7 @@ A simple R Shiny server deployed through Docker with username + password authent
 :closed_lock_with_key:
 :raised_hands: :raised_hands: :clap: :clap: :clap: :clap:
 
-![homepage](://github.com/epwalsh/docker-shiny/blob/master/img/homepage.png)
+![homepage](https://github.com/epwalsh/docker-shiny/blob/master/img/homepage.png)
 
 ## Requirements
 
