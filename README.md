@@ -17,7 +17,7 @@ A simple R Shiny server deployed through Docker with username + password authent
 You can pull and run the image directly:
 
 ```
-docker pull epwalsh/shiny-server
+docker pull epwalsh/docker-shiny
 ```
 
 Or build from scratch: :muscle:
